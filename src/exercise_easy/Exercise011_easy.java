@@ -1,2 +1,2 @@
-public class Exercise011_easy {
+package exercise_easy;public class Exercise011_easy {
 }
